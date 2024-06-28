@@ -1,5 +1,5 @@
-site_name: MkDocs YouTube Tutorial
-site_url: https://james-willett.github.io/mkdocs-material-youtube-tutorial/
+site_name: PyScrolls
+site_url: https://zimzozaur.github.io/PyScrolls/
 theme:
   name: material
   features:
