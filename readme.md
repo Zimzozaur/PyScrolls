@@ -1,4 +1,4 @@
-# PyScrolls: A Free Library with Scrolls Explaining How to Code in Python
+# [PyScrolls](https://zimzozaur.github.io/PyScrolls/): A Free Library with Scrolls Explaining How to Code in Python
 
 **Welcome to PyScrolls** 📜, an educational project designed to demystify the world of Python programming through detailed, easy-to-understand documentation. Inspired by the ancient libraries and the scrolls of knowledge they housed, PyScrolls aims to provide a timeless resource for both beginners and advanced coders.
 
